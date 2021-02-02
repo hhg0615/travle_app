@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/travle_app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/travle_app/static/js/main.892ffe1d.chunk.js",
-    "main.js.map": "/travle_app/static/js/main.892ffe1d.chunk.js.map",
-    "runtime-main.js": "/travle_app/static/js/runtime-main.15c91eb1.js",
-    "runtime-main.js.map": "/travle_app/static/js/runtime-main.15c91eb1.js.map",
-    "static/js/2.3575288b.chunk.js": "/travle_app/static/js/2.3575288b.chunk.js",
-    "static/js/2.3575288b.chunk.js.map": "/travle_app/static/js/2.3575288b.chunk.js.map",
-    "static/js/3.7b3438b3.chunk.js": "/travle_app/static/js/3.7b3438b3.chunk.js",
-    "static/js/3.7b3438b3.chunk.js.map": "/travle_app/static/js/3.7b3438b3.chunk.js.map",
+    "main.css": "/travle_app/static/css/main.afd7172b.chunk.css",
+    "main.js": "/travle_app/static/js/main.1f63279d.chunk.js",
+    "main.js.map": "/travle_app/static/js/main.1f63279d.chunk.js.map",
+    "runtime-main.js": "/travle_app/static/js/runtime-main.1f9beab0.js",
+    "runtime-main.js.map": "/travle_app/static/js/runtime-main.1f9beab0.js.map",
+    "static/js/2.47d43b8f.chunk.js": "/travle_app/static/js/2.47d43b8f.chunk.js",
+    "static/js/2.47d43b8f.chunk.js.map": "/travle_app/static/js/2.47d43b8f.chunk.js.map",
     "index.html": "/travle_app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/travle_app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.3575288b.chunk.js.LICENSE.txt": "/travle_app/static/js/2.3575288b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/travle_app/static/media/logo.6ce24c58.svg"
+    "static/css/main.afd7172b.chunk.css.map": "/travle_app/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.47d43b8f.chunk.js.LICENSE.txt": "/travle_app/static/js/2.47d43b8f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.15c91eb1.js",
-    "static/js/2.3575288b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.892ffe1d.chunk.js"
+    "static/js/runtime-main.1f9beab0.js",
+    "static/js/2.47d43b8f.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.1f63279d.chunk.js"
   ]
 }
